@@ -1,16 +1,16 @@
 {
     "version":  "0.2.0",
-    "notes":  "0.2.0 베타. 윈도우 x64 · 맥 Apple Silicon. .skp 열기(SketchUp 8·2013~2026, 구버전 장면·카메라 포함), 창·아이콘에 .skp/.wtg 끌어다 놓기, 장면·카메라·광원·선 설정, .wtg 저장/불러오기, 양면 렌더링, 재설치 없는 패치 업데이트. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기.",
-    "published":  "2026-09-19",
+    "notes":  "0.2.0 베타. 윈도우 x64 · 맥 Apple Silicon. .skp 열기(SketchUp 8·2013~2026, 구버전 장면·카메라 포함), 창·아이콘에 .skp/.wtg 끌어다 놓기, 장면·카메라·광원·선 설정, .wtg 저장/불러오기, 양면 렌더링, 재설치 없는 패치 업데이트. 런타임 0.2.3: 새 툴바·접히는 설정 패널·폭 조절, 오목 사각형 삼각분할 수정, 구형식 인스턴스 행렬 수정, 시작 안내 갱신. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기.",
+    "published":  "2026-09-20",
     "downloads":  {
                       "win":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-0.2.0-win-x64.exe",
                       "mac":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-0.2.0-mac-arm64.dmg"
                   },
     "runtime":  {
-                    "version":  "0.2.2",
-                    "url":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-runtime-0.2.2.zip",
-                    "sha256":  "afe2b0864fb6c90462278937e24d8131de7445d5ad71d3c3d321f9bd445af3e5",
+                    "version":  "0.2.3",
+                    "url":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-runtime-0.2.3.zip",
+                    "sha256":  "7dcdffdc18a5a076788f86b71cabe70763e2ab9546660109b5d1b337855aa358",
                     "requiredShellApi":  1,
-                    "notes":  "0.2.0 베타. 윈도우 x64 · 맥 Apple Silicon. .skp 열기(SketchUp 8·2013~2026, 구버전 장면·카메라 포함), 창·아이콘에 .skp/.wtg 끌어다 놓기, 장면·카메라·광원·선 설정, .wtg 저장/불러오기, 양면 렌더링, 재설치 없는 패치 업데이트. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기."
+                    "notes":  "0.2.0 베타. 윈도우 x64 · 맥 Apple Silicon. .skp 열기(SketchUp 8·2013~2026, 구버전 장면·카메라 포함), 창·아이콘에 .skp/.wtg 끌어다 놓기, 장면·카메라·광원·선 설정, .wtg 저장/불러오기, 양면 렌더링, 재설치 없는 패치 업데이트. 런타임 0.2.3: 새 툴바·접히는 설정 패널·폭 조절, 오목 사각형 삼각분할 수정, 구형식 인스턴스 행렬 수정, 시작 안내 갱신. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기."
                 }
 }
