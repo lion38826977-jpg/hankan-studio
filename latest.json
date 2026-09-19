@@ -7,9 +7,9 @@
                       "mac":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-0.2.0-mac-arm64.dmg"
                   },
     "runtime":  {
-                    "version":  "0.2.1",
-                    "url":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-runtime-0.2.1.zip",
-                    "sha256":  "abc264b29ec7f263dc2e0aac4cb0dc75d8934e54d55b8671a8e6e4d1b9f31449",
+                    "version":  "0.2.2",
+                    "url":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-runtime-0.2.2.zip",
+                    "sha256":  "afe2b0864fb6c90462278937e24d8131de7445d5ad71d3c3d321f9bd445af3e5",
                     "requiredShellApi":  1,
                     "notes":  "0.2.0 베타. 윈도우 x64 · 맥 Apple Silicon. .skp 열기(SketchUp 8·2013~2026, 구버전 장면·카메라 포함), 창·아이콘에 .skp/.wtg 끌어다 놓기, 장면·카메라·광원·선 설정, .wtg 저장/불러오기, 양면 렌더링, 재설치 없는 패치 업데이트. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기."
                 }
