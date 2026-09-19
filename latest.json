@@ -1,0 +1,9 @@
+{
+    "version":  "0.2.0",
+    "notes":  "0.2.0 베타. 윈도우 x64 · 맥 Apple Silicon. .skp 열기, 장면·카메라·광원·선 설정, .wtg 저장/불러오기, 양면 렌더링. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기.",
+    "published":  "2026-09-19",
+    "downloads":  {
+                      "win":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-0.2.0-win-x64.exe",
+                      "mac":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-0.2.0-mac-arm64.dmg"
+                  }
+}
