@@ -1,16 +1,16 @@
 {
     "version":  "0.2.0",
-    "notes":  "웹툰공방 0.2. 윈도우 x64 · 맥 Apple Silicon. 최신 빌드 4312: 상단 탭 방식 툴바(미리보기·빛과 그림자·셰이더 효과·텍스처 색 조정·카메라), 1인칭 시점(W/A/S/D 이동, Q/E 돌리기, Z/C 기울이기, 175cm 눈높이), 우측 패널은 레이어/태그, 라이선스 고지 축소. 4311: 구형식 통칠 재질·기본 앞면색 수정, 앞면·뒷면 기본색 설정, 재변환 캐시. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기.",
-    "published":  "2026-09-20",
+    "notes":  "웹툰공방 0.2. 윈도우 x64 · 맥 Apple Silicon. 최신 빌드 4313: 변환 병렬 워커 상한(다른 프로그램과 함께 써도 PC 가 멈추지 않게). 4312: 상단 탭 툴바(카메라 탭·1인칭 시점 포함), 라이선스 고지 축소. 4311: 구형식 통칠 재질·기본 앞면색 수정, 앞면·뒷면 기본색 설정, 재변환 캐시. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기.",
+    "published":  "2026-09-21",
     "downloads":  {
                       "win":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-0.2.0-win-x64.exe",
                       "mac":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-0.2.0-mac-arm64.dmg"
                   },
     "runtime":  {
-                    "version":  "0.2.4312",
-                    "url":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-runtime-0.2.4312.zip",
-                    "sha256":  "f44aef55a782c3410b959a465d77f0434898f7e256b8161fce2392b87f20c28d",
+                    "version":  "0.2.4313",
+                    "url":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-runtime-0.2.4313.zip",
+                    "sha256":  "9dec6490dffedbdb920480c875b2f3164d0d1655dfdee390857813c98c7223d5",
                     "requiredShellApi":  1,
-                    "notes":  "웹툰공방 0.2. 윈도우 x64 · 맥 Apple Silicon. 최신 빌드 4312: 상단 탭 방식 툴바(미리보기·빛과 그림자·셰이더 효과·텍스처 색 조정·카메라), 1인칭 시점(W/A/S/D 이동, Q/E 돌리기, Z/C 기울이기, 175cm 눈높이), 우측 패널은 레이어/태그, 라이선스 고지 축소. 4311: 구형식 통칠 재질·기본 앞면색 수정, 앞면·뒷면 기본색 설정, 재변환 캐시. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기."
+                    "notes":  "웹툰공방 0.2. 윈도우 x64 · 맥 Apple Silicon. 최신 빌드 4313: 변환 병렬 워커 상한(다른 프로그램과 함께 써도 PC 가 멈추지 않게). 4312: 상단 탭 툴바(카메라 탭·1인칭 시점 포함), 라이선스 고지 축소. 4311: 구형식 통칠 재질·기본 앞면색 수정, 앞면·뒷면 기본색 설정, 재변환 캐시. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기."
                 }
 }
