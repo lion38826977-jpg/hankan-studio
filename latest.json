@@ -1,16 +1,16 @@
 {
     "version":  "0.2.0",
-    "notes":  "웹툰공방 0.2. 윈도우 x64 · 맥 Apple Silicon. 최신 빌드 4317: 개체 선택(클릭=그룹, 더블클릭=이어진 덩어리, Ctrl+클릭 추가)·파란 외곽선·조작기(이동·회전·크기)·그룹(Ctrl+G/Ctrl+Shift+G·우클릭 메뉴)·복사(Ctrl+C/V)·표준 보기 4개·장면 추가 버튼·툴바 정리·1인칭 Q/E·Z/C·마우스 방향 수정·화면 클릭으로 1인칭 복귀·2013 단색 재질 파싱 수정. 4316: 통칠 재질 앞·뒤·텍스처 상속. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기.",
+    "notes":  "웹툰공방 0.2. 윈도우 x64 · 맥 Apple Silicon. 최신 빌드 4318: 장면 탭 클릭으로 저장 카메라 복귀(더블클릭=현재 카메라로 갱신), 파일 스타일 자동 적용(배경·하늘·지면·선·프로파일·음영), 유리 등 반투명 재질 합성 수정(바둑판 사라짐), 하늘 셰이더·음영 방향 수정, 회전 조작기 중심 고정, 걷기 모드 Ctrl 조합 통과, 복제본 저장 누락 수정, 삼각분할 캐시(-37%). 4317: 선택·그룹·조작기·복사·표준 보기·툴바 정리·1인칭 방향. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기.",
     "published":  "2026-09-21",
     "downloads":  {
                       "win":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-0.2.0-win-x64.exe",
                       "mac":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-0.2.0-mac-arm64.dmg"
                   },
     "runtime":  {
-                    "version":  "0.2.4317",
-                    "url":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-runtime-0.2.4317.zip",
-                    "sha256":  "1ae8c5a5d2c8792db708b0af265fa4a87da9dc04ff3e1e6ef4547f22bd6f723e",
+                    "version":  "0.2.4318",
+                    "url":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-runtime-0.2.4318.zip",
+                    "sha256":  "53e3ffd75467951b1f41d30333530a34961ecc2df15c0480db02de0c46d1f957",
                     "requiredShellApi":  1,
-                    "notes":  "웹툰공방 0.2. 윈도우 x64 · 맥 Apple Silicon. 최신 빌드 4317: 개체 선택(클릭=그룹, 더블클릭=이어진 덩어리, Ctrl+클릭 추가)·파란 외곽선·조작기(이동·회전·크기)·그룹(Ctrl+G/Ctrl+Shift+G·우클릭 메뉴)·복사(Ctrl+C/V)·표준 보기 4개·장면 추가 버튼·툴바 정리·1인칭 Q/E·Z/C·마우스 방향 수정·화면 클릭으로 1인칭 복귀·2013 단색 재질 파싱 수정. 4316: 통칠 재질 앞·뒤·텍스처 상속. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기."
+                    "notes":  "웹툰공방 0.2. 윈도우 x64 · 맥 Apple Silicon. 최신 빌드 4318: 장면 탭 클릭으로 저장 카메라 복귀(더블클릭=현재 카메라로 갱신), 파일 스타일 자동 적용(배경·하늘·지면·선·프로파일·음영), 유리 등 반투명 재질 합성 수정(바둑판 사라짐), 하늘 셰이더·음영 방향 수정, 회전 조작기 중심 고정, 걷기 모드 Ctrl 조합 통과, 복제본 저장 누락 수정, 삼각분할 캐시(-37%). 4317: 선택·그룹·조작기·복사·표준 보기·툴바 정리·1인칭 방향. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기."
                 }
 }
