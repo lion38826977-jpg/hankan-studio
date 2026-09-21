@@ -1,16 +1,16 @@
 {
     "version":  "0.2.0",
-    "notes":  "웹툰공방 0.2. 윈도우 x64 · 맥 Apple Silicon. 최신 빌드 4313: 변환 병렬 워커 상한(다른 프로그램과 함께 써도 PC 가 멈추지 않게). 4312: 상단 탭 툴바(카메라 탭·1인칭 시점 포함), 라이선스 고지 축소. 4311: 구형식 통칠 재질·기본 앞면색 수정, 앞면·뒷면 기본색 설정, 재변환 캐시. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기.",
+    "notes":  "웹툰공방 0.2. 윈도우 x64 · 맥 Apple Silicon. 최신 빌드 4314: 앞면색·뒷면색 설정 제거(파일 값 자동 적용 예정), 로드맵 범위 정리. 4313: 변환 병렬 워커 상한. 4312: 상단 탭 툴바(카메라 탭·1인칭 시점). 4311: 구형식 통칠 재질·기본 앞면색 수정, 재변환 캐시. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기.",
     "published":  "2026-09-21",
     "downloads":  {
                       "win":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-0.2.0-win-x64.exe",
                       "mac":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-0.2.0-mac-arm64.dmg"
                   },
     "runtime":  {
-                    "version":  "0.2.4313",
-                    "url":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-runtime-0.2.4313.zip",
-                    "sha256":  "9dec6490dffedbdb920480c875b2f3164d0d1655dfdee390857813c98c7223d5",
+                    "version":  "0.2.4314",
+                    "url":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-runtime-0.2.4314.zip",
+                    "sha256":  "9674b05a547f59715c7eac39963e788f7ac0bd818c6e059c80d209dbf5c2c4b5",
                     "requiredShellApi":  1,
-                    "notes":  "웹툰공방 0.2. 윈도우 x64 · 맥 Apple Silicon. 최신 빌드 4313: 변환 병렬 워커 상한(다른 프로그램과 함께 써도 PC 가 멈추지 않게). 4312: 상단 탭 툴바(카메라 탭·1인칭 시점 포함), 라이선스 고지 축소. 4311: 구형식 통칠 재질·기본 앞면색 수정, 앞면·뒷면 기본색 설정, 재변환 캐시. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기."
+                    "notes":  "웹툰공방 0.2. 윈도우 x64 · 맥 Apple Silicon. 최신 빌드 4314: 앞면색·뒷면색 설정 제거(파일 값 자동 적용 예정), 로드맵 범위 정리. 4313: 변환 병렬 워커 상한. 4312: 상단 탭 툴바(카메라 탭·1인칭 시점). 4311: 구형식 통칠 재질·기본 앞면색 수정, 재변환 캐시. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기."
                 }
 }
