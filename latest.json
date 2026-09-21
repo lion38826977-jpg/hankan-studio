@@ -1,16 +1,16 @@
 {
     "version":  "0.2.0",
-    "notes":  "웹툰공방 0.2. 윈도우 x64 · 맥 Apple Silicon. 최신 빌드 4316: 그룹째 칠한 재질(통칠)을 앞·뒤 양면에 텍스처까지 적용 — 구형식·새형식 모두에서 건물이 하늘색 민면으로 보이고 텍스처가 사라지던 문제 해결. 4315: 파일 스타일의 기본 앞·뒷면색 자동 적용. 4314: 앞면색·뒷면색 설정 제거. 4313: 변환 병렬 워커 상한. 4312: 상단 탭 툴바(카메라 탭·1인칭 시점). 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기.",
+    "notes":  "웹툰공방 0.2. 윈도우 x64 · 맥 Apple Silicon. 최신 빌드 4317: 개체 선택(클릭=그룹, 더블클릭=이어진 덩어리, Ctrl+클릭 추가)·파란 외곽선·조작기(이동·회전·크기)·그룹(Ctrl+G/Ctrl+Shift+G·우클릭 메뉴)·복사(Ctrl+C/V)·표준 보기 4개·장면 추가 버튼·툴바 정리·1인칭 Q/E·Z/C·마우스 방향 수정·화면 클릭으로 1인칭 복귀·2013 단색 재질 파싱 수정. 4316: 통칠 재질 앞·뒤·텍스처 상속. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기.",
     "published":  "2026-09-21",
     "downloads":  {
                       "win":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-0.2.0-win-x64.exe",
                       "mac":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-0.2.0-mac-arm64.dmg"
                   },
     "runtime":  {
-                    "version":  "0.2.4316",
-                    "url":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-runtime-0.2.4316.zip",
-                    "sha256":  "6bc01e99cd5ff1c9692856fb634eac19c90356b8ec38b3f5ccbc2109406bc008",
+                    "version":  "0.2.4317",
+                    "url":  "https://github.com/lion38826977-jpg/webtoon-gongbang/releases/download/v0.2.0/webtoon-gongbang-runtime-0.2.4317.zip",
+                    "sha256":  "1ae8c5a5d2c8792db708b0af265fa4a87da9dc04ff3e1e6ef4547f22bd6f723e",
                     "requiredShellApi":  1,
-                    "notes":  "웹툰공방 0.2. 윈도우 x64 · 맥 Apple Silicon. 최신 빌드 4316: 그룹째 칠한 재질(통칠)을 앞·뒤 양면에 텍스처까지 적용 — 구형식·새형식 모두에서 건물이 하늘색 민면으로 보이고 텍스처가 사라지던 문제 해결. 4315: 파일 스타일의 기본 앞·뒷면색 자동 적용. 4314: 앞면색·뒷면색 설정 제거. 4313: 변환 병렬 워커 상한. 4312: 상단 탭 툴바(카메라 탭·1인칭 시점). 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기."
+                    "notes":  "웹툰공방 0.2. 윈도우 x64 · 맥 Apple Silicon. 최신 빌드 4317: 개체 선택(클릭=그룹, 더블클릭=이어진 덩어리, Ctrl+클릭 추가)·파란 외곽선·조작기(이동·회전·크기)·그룹(Ctrl+G/Ctrl+Shift+G·우클릭 메뉴)·복사(Ctrl+C/V)·표준 보기 4개·장면 추가 버튼·툴바 정리·1인칭 Q/E·Z/C·마우스 방향 수정·화면 클릭으로 1인칭 복귀·2013 단색 재질 파싱 수정. 4316: 통칠 재질 앞·뒤·텍스처 상속. 서명 없음: 윈도우는 SmartScreen \u0027추가 정보 → 실행\u0027, 맥은 우클릭 → 열기."
                 }
 }
