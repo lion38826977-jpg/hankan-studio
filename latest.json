@@ -7,10 +7,10 @@
     "mac": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-0.2.3-mac-arm64.dmg"
   },
   "runtime": {
-    "version": "0.2.4337",
-    "url": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-runtime-0.2.4337.zip",
-    "sha256": "4e6981981bc26716813fd93fccbd89410be3dbcec6eeb24581fc01724509d30a",
+    "version": "0.2.4338",
+    "url": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-runtime-0.2.4338.zip",
+    "sha256": "a229accbd21b716cb682ab92a6b9dbcfc0487ae01a7faceb7725c7277e1385d4",
     "requiredShellApi": 1,
-    "notes": "런타임 0.2.4337 — 다른 파일을 열 때마다 생기던 흰 조각·흰 라벨을 규칙으로 수정(GIF·PSD·TGA·TIF·BMP 텍스처 자동 변환, 겹친 면 깜빡임 방지), 곡면이 각져 보이던 문제 수정(부드러운 음영), 선 켜면 반투명 개체가 하얗게 덮이던 문제 수정, 선을 윤곽 중심으로 다시 설계, 블룸 효과 추가(기본 꺼짐, 별도 '5블룸.png' 출력), 자동 패치 준비(설치판 0.2.5부터 동작)."
+    "notes": "런타임 0.2.4338 — 출력이 PSD 파일 1개로 나옵니다(Line·Shadow·Texture·Color 레이어, 윤곽선만·블룸은 켰을 때 추가). 출력 크기 창에서 레이어 순서를 끌어서 바꿀 수 있고, 레이어별 표시·합성 방식·불투명도와 함께 기억합니다. '요소별 PNG로 출력'을 고르면 예전처럼 PNG 여러 장으로 나옵니다. 4337의 흰 조각·곡면·반투명 덮임 수정과 블룸 포함."
   }
 }
