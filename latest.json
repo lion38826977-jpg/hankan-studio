@@ -7,10 +7,10 @@
     "mac": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-0.2.3-mac-arm64.dmg"
   },
   "runtime": {
-    "version": "0.2.4339",
-    "url": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-runtime-0.2.4339.zip",
-    "sha256": "eb75ac4508f15994ad53694cab0a62391edbe402f991ab318d43f2969aac915d",
+    "version": "0.2.4340",
+    "url": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-runtime-0.2.4340.zip",
+    "sha256": "5dc9f0622a8e556ca83080d40f785c5de6ab67919b69937abb2cd510f8162c8d",
     "requiredShellApi": 1,
-    "notes": "런타임 0.2.4339 — 1인칭 시점을 게임처럼 바꿨습니다. 화면을 한 번 클릭하면 마우스를 움직이는 대로 고개가 돌고, Esc 로 풉니다. 몸이 있어서 벽·가구를 통과하지 않고 벽을 따라 미끄러지며, 35cm 이하 턱(계단)만 오르고 가파른 경사는 못 오릅니다. Q/E 고개 기울이기, C 자세 바꾸기(앉기→엎드리기→서기), V 통과 모드(R/F 위아래). 4338 의 PSD 출력 포함."
+    "notes": "런타임 0.2.4340 — 물체가 많은 큰 장면에서 화면 이동과 태양(그림자) 조절이 빨라졌습니다(작은 물체를 묶어 한 번에 그림, 큰 장면 약 20%·중간 장면 약 40% 빠름). 4339 의 1인칭 게임식 이동, 4338 의 PSD 출력 포함."
   }
 }
