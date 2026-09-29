@@ -7,10 +7,10 @@
     "mac": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-0.2.3-mac-arm64.dmg"
   },
   "runtime": {
-    "version": "0.2.4340",
-    "url": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-runtime-0.2.4340.zip",
-    "sha256": "5dc9f0622a8e556ca83080d40f785c5de6ab67919b69937abb2cd510f8162c8d",
+    "version": "0.2.4341",
+    "url": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-runtime-0.2.4341.zip",
+    "sha256": "cd4c3518dcc821d5542d541164657765881efa92c66c25995176091607499c5e",
     "requiredShellApi": 1,
-    "notes": "런타임 0.2.4340 — 물체가 많은 큰 장면에서 화면 이동과 태양(그림자) 조절이 빨라졌습니다(작은 물체를 묶어 한 번에 그림, 큰 장면 약 20%·중간 장면 약 40% 빠름). 4339 의 1인칭 게임식 이동, 4338 의 PSD 출력 포함."
+    "notes": "런타임 0.2.4341 — 텍스처를 규칙으로 정리했습니다. 인쇄용 색상(CMYK) 텍스처의 색이 틀어지던 문제, 너무 큰 텍스처가 보급형 PC에서 하얗게 비던 문제(긴 변 4096 으로 자동 축소, 메모리 절약), 16비트 이미지 문제를 고쳤습니다. 열리지 않던 오래된 형식 SKP 일부(호텔·신주쿠 세트 등)도 열립니다. 4340 의 큰 장면 속도, 4339 의 1인칭, 4338 의 PSD 포함."
   }
 }
