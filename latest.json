@@ -7,10 +7,10 @@
     "mac": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-0.2.3-mac-arm64.dmg"
   },
   "runtime": {
-    "version": "0.2.4342",
-    "url": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-runtime-0.2.4342.zip",
-    "sha256": "b75faface1da55b7ebe93e0a317e40d753fa768092eafc31e2fb141ea2323d63",
+    "version": "0.2.4343",
+    "url": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-runtime-0.2.4343.zip",
+    "sha256": "4a8f4be3371f472be8b4dbe002bdd3fc4b9cb1107178587010142d0a82e18494",
     "requiredShellApi": 1,
-    "notes": "런타임 0.2.4342 — 햇빛 연출: 유리를 통과한 창문 모양 햇빛, 빛(Light: 직사광+그늘 속 반사광)·광선(Glow) 레이어를 새로 출력합니다. 출력 창에 '마무리 효과'가 생겼습니다(대비 오버레이, 시간대 6·날씨 4 색감, 노을·새벽은 태양 높이까지, 안개는 먼 곳만). 효과는 PSD 에 따로 레이어로 들어가 클립스튜디오에서 다시 조절할 수 있고, 모두 꺼 두면 출력은 예전과 같습니다. 4341 텍스처 규칙·4340 속도·4339 1인칭·4338 PSD 포함."
+    "notes": "런타임 0.2.4343 — 그림자 품질: 물체에서 멀어질수록 그림자 가장자리가 부드러워지는 효과와, 벽·바닥이 만나는 구석을 은은히 어둡게 하는 효과를 넣었습니다(그림자 레이어 한 장에 포함, 기본은 꺼짐). 4342 햇빛·마무리 효과, 4341 텍스처 규칙 등 포함."
   }
 }
