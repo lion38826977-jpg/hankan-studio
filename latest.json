@@ -7,10 +7,10 @@
     "mac": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-0.2.3-mac-arm64.dmg"
   },
   "runtime": {
-    "version": "0.2.4341",
-    "url": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-runtime-0.2.4341.zip",
-    "sha256": "cd4c3518dcc821d5542d541164657765881efa92c66c25995176091607499c5e",
+    "version": "0.2.4342",
+    "url": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-runtime-0.2.4342.zip",
+    "sha256": "b75faface1da55b7ebe93e0a317e40d753fa768092eafc31e2fb141ea2323d63",
     "requiredShellApi": 1,
-    "notes": "런타임 0.2.4341 — 텍스처를 규칙으로 정리했습니다. 인쇄용 색상(CMYK) 텍스처의 색이 틀어지던 문제, 너무 큰 텍스처가 보급형 PC에서 하얗게 비던 문제(긴 변 4096 으로 자동 축소, 메모리 절약), 16비트 이미지 문제를 고쳤습니다. 열리지 않던 오래된 형식 SKP 일부(호텔·신주쿠 세트 등)도 열립니다. 4340 의 큰 장면 속도, 4339 의 1인칭, 4338 의 PSD 포함."
+    "notes": "런타임 0.2.4342 — 햇빛 연출: 유리를 통과한 창문 모양 햇빛, 빛(Light: 직사광+그늘 속 반사광)·광선(Glow) 레이어를 새로 출력합니다. 출력 창에 '마무리 효과'가 생겼습니다(대비 오버레이, 시간대 6·날씨 4 색감, 노을·새벽은 태양 높이까지, 안개는 먼 곳만). 효과는 PSD 에 따로 레이어로 들어가 클립스튜디오에서 다시 조절할 수 있고, 모두 꺼 두면 출력은 예전과 같습니다. 4341 텍스처 규칙·4340 속도·4339 1인칭·4338 PSD 포함."
   }
 }
