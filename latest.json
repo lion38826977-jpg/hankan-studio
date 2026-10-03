@@ -7,10 +7,10 @@
     "mac": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-0.2.3-mac-arm64.dmg"
   },
   "runtime": {
-    "version": "0.2.4343",
-    "url": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-runtime-0.2.4343.zip",
-    "sha256": "4a8f4be3371f472be8b4dbe002bdd3fc4b9cb1107178587010142d0a82e18494",
+    "version": "0.2.4344",
+    "url": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-runtime-0.2.4344.zip",
+    "sha256": "1a550fe09d10e776843ac6efe06cfaf1b009a8444404eb118f3fd3e6985ba821",
     "requiredShellApi": 1,
-    "notes": "런타임 0.2.4343 — 그림자 품질: 물체에서 멀어질수록 그림자 가장자리가 부드러워지는 효과와, 벽·바닥이 만나는 구석을 은은히 어둡게 하는 효과를 넣었습니다(그림자 레이어 한 장에 포함, 기본은 꺼짐). 4342 햇빛·마무리 효과, 4341 텍스처 규칙 등 포함."
+    "notes": "런타임 0.2.4344 — 새 화면: 아래 줄이 장면·미리보기·출력 세 개로 단순해졌고, 미리보기 창에서 PSD 레이어 이름·순서를 정합니다. 왼쪽 레일을 카메라·투시·빛과 그림자·재질과 화질·선·필터·레이어·근경과 배경으로 정리했고, 물체를 고르면 개체 카드가 나옵니다. 필터(빛·Glow·Bloom 등)는 고른 뒤 적용하기로 씁니다. 확대 표시 대신 미니맵, 화살표 키 축 고정과 숫자 입력 이동, 시야각·2점 투시·어안·360° 파노라마를 넣었습니다."
   }
 }
