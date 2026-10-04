@@ -7,10 +7,10 @@
     "mac": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-0.2.3-mac-arm64.dmg"
   },
   "runtime": {
-    "version": "0.3.4349",
-    "url": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-runtime-0.3.4349.zip",
-    "sha256": "5cef473c0ee0a541e90c9e30df9ff8073b1730ee48150dd3d9dd938e44b1df90",
+    "version": "0.3.4350",
+    "url": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-runtime-0.3.4350.zip",
+    "sha256": "e181632c1eb897a9e9099ae8c813c81faf0c008fa1037af7c1733d70087fe70d",
     "requiredShellApi": 1,
-    "notes": "런타임 0.3.4349 — 배경 파일 읽기 핵심부를 빠르게 바꿔 처음 열기가 더 빨라졌습니다(큰 배경 약 1.5배, 4347 대비 약 3배). 결과는 이전과 같습니다."
+    "notes": "런타임 0.3.4350 — 화면과 출력의 선이 매끈해졌습니다(기울어진 선의 계단 현상 제거). 멀리 촘촘한 선은 검은 덩어리 대신 회색 결로 보입니다."
   }
 }
