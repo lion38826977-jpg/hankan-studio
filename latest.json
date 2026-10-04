@@ -7,10 +7,10 @@
     "mac": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-0.2.3-mac-arm64.dmg"
   },
   "runtime": {
-    "version": "0.3.4348",
-    "url": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-runtime-0.3.4348.zip",
-    "sha256": "cbcb0fb383d8a23ae531ceb68e9cb4d571bd586566adb0bf96eb6db862b8b026",
+    "version": "0.3.4349",
+    "url": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-runtime-0.3.4349.zip",
+    "sha256": "5cef473c0ee0a541e90c9e30df9ff8073b1730ee48150dd3d9dd938e44b1df90",
     "requiredShellApi": 1,
-    "notes": "런타임 0.3.4348 — 배경 처음 열기가 빨라졌습니다(큰 배경 약 2배, 실제 진행률 표시, 메모리 감소). 원래 화질로 충분히 빠른 배경은 회전·이동·휠 확대 중에도 흐려지지 않습니다(열자마자 첫 회전부터). 큰 배경 화면 그리기 개선. 동적 구성요소 2차(조건에 따라 부품 숨김·색 버튼 재질 변경). 변환 실패 시 뒷정리 개선."
+    "notes": "런타임 0.3.4349 — 배경 파일 읽기 핵심부를 빠르게 바꿔 처음 열기가 더 빨라졌습니다(큰 배경 약 1.5배, 4347 대비 약 3배). 결과는 이전과 같습니다."
   }
 }
