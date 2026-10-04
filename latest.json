@@ -7,10 +7,10 @@
     "mac": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-0.2.3-mac-arm64.dmg"
   },
   "runtime": {
-    "version": "0.3.4346",
-    "url": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-runtime-0.3.4346.zip",
-    "sha256": "439e199f9582a5d29510093bb9ebfa98082fc111c34c497defff4b805f3f2a22",
+    "version": "0.3.4347",
+    "url": "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.2.3/hankan-studio-runtime-0.3.4347.zip",
+    "sha256": "38fd43ebe63e0eeba1da8f896990bab5f2430b0c3acec42dc56a68bd131f7f8a",
     "requiredShellApi": 1,
-    "notes": "런타임 0.3.4346 — 한칸제작소 0.3. 그림자: 햇빛 방향을 스케치업과 맞췄고, 벽을 뚫고 새던 빛을 크게 줄였습니다. 실내 그늘이 새까맣게 뭉개지지 않고 회색 그늘로 나옵니다. 그 밖에 시험·안정성 정리."
+    "notes": "런타임 0.3.4347 — 새 장면(찰칵, 장면 탭 추가)·원본 장면 묶음, 단면, 카메라 투시/투시 없음 + 탑·정면·오른쪽·왼쪽, 재질 카드(스포이드·재질 목록·영역 구분·빛남·유리·텍스처 크기·재질 바꾸기), 동적 구성요소(문·서랍 열고 닫기), 색 레이어 = 스케치업 재질 색, 출력물 미리보기 장면별 저장, 숨긴 개체 반투명 보기, PSD 출력 빨라짐, 빛 계산(시험), 새 화면 고정·자동 업데이트 항상."
   }
 }
