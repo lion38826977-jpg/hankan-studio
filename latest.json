@@ -1,30 +1,30 @@
 {
-    "version":  "0.4.0",
-    "notes":  "한칸제작소 0.4 — 라이선스 등록과 자동 업데이트(설치판·런타임). 이 설치판을 한 번 설치하면 이후에는 자동으로 업데이트됩니다.",
-    "published":  "2026-10-05",
+    "version":  "0.5.0",
+    "notes":  "한칸제작소 0.5 — 메일과 48자 코드로 등록하는 새 라이선스, 새 PC로 바로 옮기기(한 달 3번), 인터넷 없이 15일 사용, 저장 파일 .hankan, 재질별 무늬 크기·재질 바꾸기, 빛 계산 출력 메모리 절감, 출력 PSD 햇빛·빛 번짐 색을 화면과 맞춤, 새 아이콘. 0.4에서 올라올 때는 이 설치판을 한 번 설치해 주세요.",
+    "published":  "2026-10-06",
     "downloads":  {
-                      "win":  "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.4.0/hankan-studio-0.4.0-win-x64.exe"
+                      "win":  "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.5.0/hankan-studio-0.5.0-win-x64.exe"
                   },
     "revocations":  {
                         "format":  "hankan-revocations-v1",
-                        "payload":  "eyJzY2hlbWEiOjEsImlzc3VlZEF0IjoiMjAyNi0xMC0wNVQwMToxNDo1OVoiLCJsaWNlbnNlSWRzIjpbXX0=",
-                        "signature":  "M5PQJAwNva1sNmbZxBKrdqylv2IkeEZTAl1k3FyCQfVBAMTdl6RqeW59ixqaQ+qGH/5JLNPOdFlm33YafIz+Dg=="
+                        "payload":  "eyJzY2hlbWEiOjEsImlzc3VlZEF0IjoiMjAyNi0xMC0wNlQwNTo1OToxN1oiLCJsaWNlbnNlSWRzIjpbXX0=",
+                        "signature":  "5Uq+8+xgiwhhiT5TXl8I5kUvdft/N6vzWP+YhL4nraxJ1PMrjQQttr3BknZtmaz5/WAaPKK7vNeiHU+LdhBcDg=="
                     },
     "runtime":  {
-                    "version":  "0.4.4351",
-                    "releasedAt":  "2026-10-05T01:14:51Z",
+                    "version":  "0.5.4353",
+                    "releasedAt":  "2026-10-06T05:59:09Z",
                     "channel":  "feature",
                     "majorVersion":  0,
-                    "featureBaselineAt":  "2026-10-05T01:14:51Z",
-                    "majorReleasedAt":  "2026-10-05T01:14:51Z",
-                    "url":  "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.4.0/hankan-studio-runtime-0.4.4351-win32-x64-cpython-312.zip",
-                    "sha256":  "ea774470714185e83512457950b2623ea6d83c718aafc367f52ee3e1fa8b22ab",
-                    "requiredShellApi":  7,
-                    "notes":  "한칸제작소 0.4 — 라이선스 등록과 자동 업데이트(설치판·런타임). 이 설치판을 한 번 설치하면 이후에는 자동으로 업데이트됩니다.",
+                    "featureBaselineAt":  "2026-10-06T05:59:09Z",
+                    "majorReleasedAt":  "2026-10-06T05:59:09Z",
+                    "url":  "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.5.0/hankan-studio-runtime-0.5.4353-win32-x64-cpython-312.zip",
+                    "sha256":  "279a82dd7955d176ba315e6e4fb153370f6a36dd87513234924a80492a6bb115",
+                    "requiredShellApi":  8,
+                    "notes":  "한칸제작소 0.5 — 메일과 48자 코드로 등록하는 새 라이선스, 새 PC로 바로 옮기기(한 달 3번), 인터넷 없이 15일 사용, 저장 파일 .hankan, 재질별 무늬 크기·재질 바꾸기, 빛 계산 출력 메모리 절감, 출력 PSD 햇빛·빛 번짐 색을 화면과 맞춤, 새 아이콘. 0.4에서 올라올 때는 이 설치판을 한 번 설치해 주세요.",
                     "revocations":  {
                                         "format":  "hankan-revocations-v1",
-                                        "payload":  "eyJzY2hlbWEiOjEsImlzc3VlZEF0IjoiMjAyNi0xMC0wNVQwMToxNDo1OVoiLCJsaWNlbnNlSWRzIjpbXX0=",
-                                        "signature":  "M5PQJAwNva1sNmbZxBKrdqylv2IkeEZTAl1k3FyCQfVBAMTdl6RqeW59ixqaQ+qGH/5JLNPOdFlm33YafIz+Dg=="
+                                        "payload":  "eyJzY2hlbWEiOjEsImlzc3VlZEF0IjoiMjAyNi0xMC0wNlQwNTo1OToxN1oiLCJsaWNlbnNlSWRzIjpbXX0=",
+                                        "signature":  "5Uq+8+xgiwhhiT5TXl8I5kUvdft/N6vzWP+YhL4nraxJ1PMrjQQttr3BknZtmaz5/WAaPKK7vNeiHU+LdhBcDg=="
                                     }
                 },
     "runtimes":  [
@@ -51,12 +51,33 @@
                                              "payload":  "eyJzY2hlbWEiOjEsImlzc3VlZEF0IjoiMjAyNi0xMC0wNVQwMToxNDo1OVoiLCJsaWNlbnNlSWRzIjpbXX0=",
                                              "signature":  "M5PQJAwNva1sNmbZxBKrdqylv2IkeEZTAl1k3FyCQfVBAMTdl6RqeW59ixqaQ+qGH/5JLNPOdFlm33YafIz+Dg=="
                                          }
+                     },
+                     {
+                         "version":  "0.5.4353",
+                         "releasedAt":  "2026-10-06T05:59:09Z",
+                         "channel":  "feature",
+                         "majorVersion":  0,
+                         "featureBaselineAt":  "2026-10-06T05:59:09Z",
+                         "majorReleasedAt":  "2026-10-06T05:59:09Z",
+                         "url":  "https://github.com/lion38826977-jpg/hankan-studio/releases/download/v0.5.0/hankan-studio-runtime-0.5.4353-win32-x64-cpython-312.zip",
+                         "sha256":  "279a82dd7955d176ba315e6e4fb153370f6a36dd87513234924a80492a6bb115",
+                         "requiredShellApi":  8,
+                         "notes":  "한칸제작소 0.5 — 메일과 48자 코드로 등록하는 새 라이선스, 새 PC로 바로 옮기기(한 달 3번), 인터넷 없이 15일 사용, 저장 파일 .hankan, 재질별 무늬 크기·재질 바꾸기, 빛 계산 출력 메모리 절감, 출력 PSD 햇빛·빛 번짐 색을 화면과 맞춤, 새 아이콘. 0.4에서 올라올 때는 이 설치판을 한 번 설치해 주세요.",
+                         "revocations":  {
+                                             "format":  "hankan-revocations-v1",
+                                             "payload":  "eyJzY2hlbWEiOjEsImlzc3VlZEF0IjoiMjAyNi0xMC0wNlQwNTo1OToxN1oiLCJsaWNlbnNlSWRzIjpbXX0=",
+                                             "signature":  "5Uq+8+xgiwhhiT5TXl8I5kUvdft/N6vzWP+YhL4nraxJ1PMrjQQttr3BknZtmaz5/WAaPKK7vNeiHU+LdhBcDg=="
+                                         }
                      }
                  ],
     "shells":  [
                    {
                        "payload":  "eyJmb3JtYXQiOiJoYW5rYW4tc2hlbGwtdjIiLCJyZWxlYXNlZEF0IjoiMjAyNi0xMC0wNVQwMDowMDowMFoiLCJjaGFubmVsIjoiZmVhdHVyZSIsIm1ham9yVmVyc2lvbiI6MCwiZmVhdHVyZUJhc2VsaW5lQXQiOiIyMDI2LTEwLTA1VDAwOjAwOjAwWiIsInZlcnNpb24iOiIwLjQuMCIsInNoZWxsQXBpVmVyc2lvbiI6NywicGxhdGZvcm0iOiJ3aW4zMiIsImFyY2giOiJ4NjQiLCJpbnN0YWxsZXIiOiJ3aW4temlwIiwidXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL2xpb24zODgyNjk3Ny1qcGcvaGFua2FuLXN0dWRpby9yZWxlYXNlcy9kb3dubG9hZC92MC40LjAvaGFua2FuLXN0dWRpby0wLjQuMC13aW4teDY0LnppcCIsInRyZWVIYXNoIjoiMmU0YzdmODE2MzdkNjJmYmI0MjgyNDJmOTNhMzI2NjUyZDQwNzcxYTc1ZTcyM2JhZmEwY2UzNGM2M2U4OWNiZiIsInNoYTI1NiI6ImJmNTljYWEyMWIzOTA3OWUyYTk0MjEyZGJhYTkyNGI0MjI1NDkzOTQzZWUyNWQ2NDkwZWU3NzU2YzU0Mjg1YjciLCJzaXplIjoyMDEwNzUyOTYsImJ1bmRsZWRSdW50aW1lIjp7InJlbGVhc2VkQXQiOiIyMDI2LTEwLTA1VDAwOjAwOjAwWiIsImNoYW5uZWwiOiJmZWF0dXJlIiwibWFqb3JWZXJzaW9uIjowLCJmZWF0dXJlQmFzZWxpbmVBdCI6IjIwMjYtMTAtMDVUMDA6MDA6MDBaIiwidmVyc2lvbiI6IjAuNC40MzUxIn0sInJldm9jYXRpb25zIjp7ImZvcm1hdCI6Imhhbmthbi1yZXZvY2F0aW9ucy12MSIsInBheWxvYWQiOiJleUp6WTJobGJXRWlPakVzSW1semMzVmxaRUYwSWpvaU1qQXlOaTB4TUMwd05WUXdNVG94TWpveU0xb2lMQ0pzYVdObGJuTmxTV1J6SWpwYlhYMD0iLCJzaWduYXR1cmUiOiJMY3ZRY0hFbkhYajNCOFNUeFUxMGxaM2lyQ2taMnpWU3l0TGxOM0k2TDA1VnF2NVFPRSsyUWpRVks0SE0wM2FhQ0JYMUdoMTdWWStqcUlPc2ptcFJDdz09In19",
                        "signature":  "/khVzRv0ivUDNtDmHSFD2JA1ChfoFq3dsM7wEsPGK8i209W2kA/nTn1RrCJ8/E+tCQIzS1bQFaIRiIPWYPP3Bg=="
+                   },
+                   {
+                       "payload":  "eyJmb3JtYXQiOiJoYW5rYW4tc2hlbGwtdjIiLCJyZWxlYXNlZEF0IjoiMjAyNi0xMC0wNVQwMDowMDowMFoiLCJjaGFubmVsIjoiZmVhdHVyZSIsIm1ham9yVmVyc2lvbiI6MCwiZmVhdHVyZUJhc2VsaW5lQXQiOiIyMDI2LTEwLTA1VDAwOjAwOjAwWiIsInZlcnNpb24iOiIwLjUuMCIsInNoZWxsQXBpVmVyc2lvbiI6OCwicGxhdGZvcm0iOiJ3aW4zMiIsImFyY2giOiJ4NjQiLCJpbnN0YWxsZXIiOiJ3aW4temlwIiwidXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL2xpb24zODgyNjk3Ny1qcGcvaGFua2FuLXN0dWRpby9yZWxlYXNlcy9kb3dubG9hZC92MC41LjAvaGFua2FuLXN0dWRpby0wLjUuMC13aW4teDY0LnppcCIsInRyZWVIYXNoIjoiOTFjMzUzYjk1NmQ4YmMzMzAxMDM3NmFkYjQ3ZDE0MmIxNjkwMzNlMGY3NWQ0NTVhNTE1N2QzZDE4YzkxNmNhYyIsInNoYTI1NiI6IjQ2M2E2Y2IyOTk4NDk3ZDE5NzgwMjY2YjQ1ZDM0ZGMxNGNhYjI2NDk0MDFiMTdmMmYyYWI4OTkxOTNmY2YzYTgiLCJzaXplIjoyMDA5OTQzNjMsImJ1bmRsZWRSdW50aW1lIjp7InJlbGVhc2VkQXQiOiIyMDI2LTEwLTA1VDAwOjAwOjAwWiIsImNoYW5uZWwiOiJmZWF0dXJlIiwibWFqb3JWZXJzaW9uIjowLCJmZWF0dXJlQmFzZWxpbmVBdCI6IjIwMjYtMTAtMDVUMDA6MDA6MDBaIiwidmVyc2lvbiI6IjAuNS40MzUzIn0sInJldm9jYXRpb25zIjp7ImZvcm1hdCI6Imhhbmthbi1yZXZvY2F0aW9ucy12MSIsInBheWxvYWQiOiJleUp6WTJobGJXRWlPakVzSW1semMzVmxaRUYwSWpvaU1qQXlOaTB4TUMwd05sUXdOVG8xT0RvME9Wb2lMQ0pzYVdObGJuTmxTV1J6SWpwYlhYMD0iLCJzaWduYXR1cmUiOiJmbzVLeWRQZlhmUkxaZHl4NDR4N3JmOXBiYXNsZUpOVWJ2ODFGbm9LM1ZrRlgzYXpBRDM0TDZDS21BL2gvN2J3cVBBT3FOTDRkODJCYmpOek9DdGNCdz09In19",
+                       "signature":  "/jwNP6Cd7GwH2m3Wsx+ORm8vs3OH5SvWeXRCBVdsfQc+/naFOLqGUpJDND6CbcoVxWoUzVRehnnxkJTAxtszDg=="
                    }
                ]
 }
